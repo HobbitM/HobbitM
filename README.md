@@ -23,14 +23,15 @@ About me:
 ### Databases:
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4)](https://skillicons.dev)
 
-### Version Control Tools:
+### Version Control:
 [![Version Control Tools](https://skillicons.dev/icons?i=git,github&perline=2)](https://skillicons.dev)
+
+### CI/CD:
+[![CI/CD](https://skillicons.dev/icons?i=githubactions,docker&perline=2)](https://skillicons.dev)
 
 ### Other Tools:
 [![Version Control Tools](https://skillicons.dev/icons?i=postman&perline=1)](https://skillicons.dev)
 
-### CI/CD:
-[![CI/CD](https://skillicons.dev/icons?i=githubactions,docker&perline=2)](https://skillicons.dev)
 
 ## ADDITIONAL SKILLS:
 - Project Management Software (JIRA, TRELLO)
